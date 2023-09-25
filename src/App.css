@@ -78,6 +78,10 @@ section {
   }
 
   .button2 {
-    left: 25%;
+    justify-content: center;
+  }
+
+  .filtros {
+    justify-content: center;
   }
 }
